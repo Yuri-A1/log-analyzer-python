@@ -17,3 +17,5 @@ Herramienta de análisis y tratamiento de datos orientada a auditoría de sistem
 Instalar dependencias necesarias:
 ```bash
 pip install pandas
+Ejecutar el script:
+python analyzer.py
